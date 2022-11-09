@@ -1,1 +1,1 @@
-web: gunicorn main:client
+web: gunicorn main.py
